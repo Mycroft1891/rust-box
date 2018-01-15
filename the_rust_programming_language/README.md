@@ -58,8 +58,15 @@ rand::thread_rng().gen_range(1,101)
 ```
 
 
-## Common Programming Concepts
+## Common Programming Concepts([View Source](variables/guessing_game/src/main.rs))
 
-### Variables and Mutability
+- Variables
+- Integers
+- Floats
+- Booleans
+- Arrays
+- Functions
+- Control flow
 
-Variables are immutable by default in Rust.
+
+##
